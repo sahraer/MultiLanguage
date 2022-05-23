@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<AppData xmlns="http://tempuri.org/AppData.xsd">
+  <Language>
+    <ID>002</ID>
+    <English>Label</English>
+    <German>das Etikett</German>
+    <French>étiqueter</French>
+  </Language>
+</AppData>
